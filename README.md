@@ -1,5 +1,5 @@
 # Save-and-Load-Session-v.0.2---Aseprite
-Esta é uma atualização do script Save And Load Session criado por Olga_Galvanova(atual nickname na comunidade Aseprite). Com o intuito de ajudar aqueles que usam várias referências para seus desenhos e que agora poderão fechar o Aseprite sem perder a sua sessão. Esta atualização permite salvar seus espaços de trabalho para carrega-los em outro momentos
+Esta é uma atualização do script Save and Load Session criado por Olga_Galvanova(atual nickname na comunidade Aseprite). Com o intuito de ajudar aqueles que usam várias referências para seus desenhos e que agora poderão fechar o Aseprite sem perder a sua sessão. Esta atualização permite salvar seus espaços de trabalho para carrega-los em outro momentos
 
 <img width="538" height="303" alt="image" src="https://github.com/user-attachments/assets/b0e11ea9-bf82-4a58-bbf7-25889181ebc9" />
 
@@ -12,6 +12,7 @@ Apenas atualizações simples.
 2. Cria automaticamente uma pasta na sua pasta de scripts do Aseprite.
 3. Agora você pode excluir sessões, com confirmação.
 4. Depura erros, como arquivos não encontrados ou sessão não encontrada.
+5. Sessões criadas com arquivo .txt.
 
 <img width="750" height="484" alt="image" src="https://github.com/user-attachments/assets/e56cf456-c1cb-47ba-a0b6-4a9cb515c464" />
 <img width="554" height="415" alt="image" src="https://github.com/user-attachments/assets/76d00e60-9d6c-4e8c-a38e-848dfea575fa" />
@@ -28,7 +29,6 @@ Just simple updates.
 2. Automatically creates a folder in your Aseprite scripts folder.
 3. You can now delete sessions, with confirmation.
 4. Debugs errors, such as files not found or sessions not found.
-
-Link available on Github:
+5. Sessions created with a .txt file.
 
 All credit to Olga_Galvanova (Aseprite Community)
